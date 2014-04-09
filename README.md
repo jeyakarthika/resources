@@ -1,6 +1,14 @@
-resources
+Resources
 =========
+```css
+STATUS
+======
+- Moving this list which used to live in my blog (http://jeyakarthika.com/) here. 
+- The links will need be updated over this weekend.
+```
 
+What is this?
+============
 There are loads of resources available online when you set your heart to learn something new. And over the past few months, I have been able to filter through those and use some resources consistently again and again with regards to front end design and coding. So, This Web Design & Development Resources list will grow or shrink as I progress through my learning.
 
 ##Structured Learning
