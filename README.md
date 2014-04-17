@@ -3,7 +3,7 @@ Resources
 ```css
 STATUS
 ======
-- Moving this list which used to live in my blog (http://jeyakarthika.com/) here. 
+- Moving this list which used to live in my blog (http://jeyakarthika.com/) here.
 - The links will need be updated over this weekend.
 ```
 
@@ -13,11 +13,11 @@ There are loads of resources available online when you set your heart to learn s
 
 ##Structured Learning
 
-[ThinkFul]()
-[Codeacademy]()
-[Treehouse]()
-[TutsPlus]()
-[Code School]()
+[ThinkFul](http://www.thinkful.com/)
+[Codeacademy](http://www.codecademy.com/)
+[Treehouse](http://www.teamtreehouse.com/)
+[TutsPlus](http://www.tutsplus.com/)
+[Code School](http://www.codeschool.com/)
 
 ————♥————
 
@@ -159,7 +159,7 @@ There are loads of resources available online when you set your heart to learn s
 [Colour Code]()
 [Hail Pixel]()
 
- 
+
 
 Do you think I have missed out an awesome resource that myself and others could benefit from?
 
