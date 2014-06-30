@@ -19,7 +19,6 @@ There are loads of resources available online when you set your heart to learn s
 - [TutsPlus](http://www.tutsplus.com/)
 - [Code School](http://www.codeschool.com/)
 
-————♥————
 
 ##Blog/Tutorial style learning
 
@@ -37,7 +36,6 @@ There are loads of resources available online when you set your heart to learn s
 [Onextrapixel]()
 [CreativeBloq]()
 
-————♥————
 
 ##Reference Sites
 
@@ -46,7 +44,6 @@ There are loads of resources available online when you set your heart to learn s
 [W3Schools]()
 [CodeConquest]()
 
-————♥————
 
 ##Books
 
