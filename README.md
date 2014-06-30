@@ -22,19 +22,19 @@ There are loads of resources available online when you set your heart to learn s
 
 ##Blog/Tutorial style learning
 
-[CSS Tricks]()
-[CSS3 Files]()
-[CoDrops]()
-[LINE25]()
-[Spoon Graphics]()
-[Smashing Magazine]()
-[Webdesign Ledger]()
-[Six Revisions]()
-[Hongkiat]()
-[1st Web Designer]()
-[Abuzeedo]()
-[Onextrapixel]()
-[CreativeBloq]()
+- [CSS Tricks]()
+- [CSS3 Files]()
+- [CoDrops]()
+- [LINE25]()
+- [Spoon Graphics]()
+- [Smashing Magazine]()
+- [Webdesign Ledger]()
+- [Six Revisions]()
+- [Hongkiat]()
+- [1st Web Designer]()
+- [Abuzeedo]()
+- [Onextrapixel]()
+- [CreativeBloq]()
 
 
 ##Reference Sites
@@ -51,7 +51,6 @@ There are loads of resources available online when you set your heart to learn s
 [A Book Apart]()
 [Eloquent Javascript]()
 
-————♥————
 
 ##Latest News Articles
 
@@ -59,14 +58,12 @@ There are loads of resources available online when you set your heart to learn s
 [A list Apart]()
 [Hey Designer!]()
 
-————♥————
 
 ##Free Resources
 
 [Creative Market
 [UnSplash
 
-————♥————
 
 ##Online Code Sharing
 
@@ -76,7 +73,6 @@ There are loads of resources available online when you set your heart to learn s
 [PasteBucket]()
 [Haste Bin]()
 
-————♥————
 
 ##IDE
 
@@ -84,7 +80,6 @@ There are loads of resources available online when you set your heart to learn s
 [Sublime Text 2]()
 [Adobe Dreamweaver]()
 
-————♥————
 
 ##Design Softwares
 
@@ -92,7 +87,6 @@ There are loads of resources available online when you set your heart to learn s
 [Adobe Illustrator]()
 [Adobe Indesign]()
 
-————♥————
 
 ##Inspiration
 
@@ -102,7 +96,6 @@ There are loads of resources available online when you set your heart to learn s
 [CSS design awards]()
 [Site Inspire]()
 
-————♥————
 
 ##Tools
 
@@ -120,14 +113,12 @@ There are loads of resources available online when you set your heart to learn s
 [QuirksMode]()
 [Long Shadows Generator]()
 
-————♥————
 
 ##jQuery Libraries
 
 [UnHeap]()
 [Handpicked jQuery Plugins]()
 
-————♥————
 
 ##Frameworks
 
@@ -136,7 +127,6 @@ There are loads of resources available online when you set your heart to learn s
 [960 Grid System]()
 [Underscores]()
 
-————♥————
 
 ##Fonts
 
@@ -145,7 +135,6 @@ There are loads of resources available online when you set your heart to learn s
 [Dafont.com]()
 [Font Squirrel]()
 
-————♥————
 
 ##Colours
 
