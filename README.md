@@ -13,11 +13,11 @@ There are loads of resources available online when you set your heart to learn s
 
 ##Structured Learning
 
-[ThinkFul](http://www.thinkful.com/)
-[Codeacademy](http://www.codecademy.com/)
-[Treehouse](http://www.teamtreehouse.com/)
-[TutsPlus](http://www.tutsplus.com/)
-[Code School](http://www.codeschool.com/)
+- [ThinkFul](http://www.thinkful.com/)
+- [Codeacademy](http://www.codecademy.com/)
+- [Treehouse](http://www.teamtreehouse.com/)
+- [TutsPlus](http://www.tutsplus.com/)
+- [Code School](http://www.codeschool.com/)
 
 ————♥————
 
