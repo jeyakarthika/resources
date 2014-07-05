@@ -22,15 +22,15 @@ There are loads of resources available online when you set your heart to learn s
 
 ##Blog/Tutorial style learning
 
-- [CSS Tricks]()
-- [CSS3 Files]()
-- [CoDrops]()
-- [LINE25]()
-- [Spoon Graphics]()
-- [Smashing Magazine]()
-- [Webdesign Ledger]()
+- [CSS Tricks](http://www.css-tricks.com)
+- [CSS3 Files](http://www.css3files.com/)
+- [CoDrops](http://tympanus.net/codrops/)
+- [LINE25](http://line25.com/)
+- [Spoon Graphics](http://blog.spoongraphics.co.uk/)
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+- [Webdesign Ledger](http://webdesignledger.com/)
 - [Six Revisions]()
-- [Hongkiat]()
+- [Hongkiat](http://www.hongkiat.com/blog/)
 - [1st Web Designer]()
 - [Abuzeedo]()
 - [Onextrapixel]()
