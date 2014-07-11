@@ -29,7 +29,7 @@ There are loads of resources available online when you set your heart to learn s
 - [Spoon Graphics](http://blog.spoongraphics.co.uk/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Webdesign Ledger](http://webdesignledger.com/)
-- [Six Revisions]()
+- [Six Revisions](http://sixrevisions.com/)
 - [Hongkiat](http://www.hongkiat.com/blog/)
 - [1st Web Designer]()
 - [Abuzeedo]()
