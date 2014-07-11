@@ -31,10 +31,10 @@ There are loads of resources available online when you set your heart to learn s
 - [Webdesign Ledger](http://webdesignledger.com/)
 - [Six Revisions](http://sixrevisions.com/)
 - [Hongkiat](http://www.hongkiat.com/blog/)
-- [1st Web Designer]()
-- [Abuzeedo]()
-- [Onextrapixel]()
-- [CreativeBloq]()
+- [1st Web Designer](http://www.1stwebdesigner.com/blog)
+- [Abuzeedo](http://abduzeedo.com/)
+- [Onextrapixel](http://www.onextrapixel.com/)
+- [CreativeBloq](http://www.creativebloq.com/)
 
 
 ##Reference Sites
