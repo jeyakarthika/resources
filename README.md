@@ -3,7 +3,8 @@ Resources
 ```css
 STATUS
 ======
-- Moving this list which used to live in my blog (http://jeyakarthika.com/) here.
+- Moving this list which used to live in my blog (http://jeya.me/) here.
+- In Progress
 ```
 
 What is this?
