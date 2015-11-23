@@ -4,7 +4,6 @@ Resources
 STATUS
 ======
 - Moving this list which used to live in my blog (http://jeyakarthika.com/) here.
-- The links will need be updated over this weekend.
 ```
 
 What is this?
@@ -35,6 +34,9 @@ There are loads of resources available online when you set your heart to learn s
 - [Abuzeedo](http://abduzeedo.com/)
 - [Onextrapixel](http://www.onextrapixel.com/)
 - [CreativeBloq](http://www.creativebloq.com/)
+
+##Freelancing Tips
+- [Janna Hagan](http://jannalynnhagan.com/blog/)
 
 
 ##Reference Sites
